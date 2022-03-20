@@ -1,0 +1,26 @@
+proxies:
+- {"name":"🇭🇰 HK_53 |147.63Mb","server":"ssl.tcpbbr.net","type":"trojan","country":"🇭🇰 HK","port":443,"password":"5c7b33c6-6d83-11eb-b77b-f23c913c8d2b","skip-cert-verify":true,"udp":true}
+- {"name":"🇭🇰 HK_54","server":"www.zx07.top","type":"trojan","country":"🇭🇰 HK","port":443,"password":"L1qNeGrY58ApwrRA","skip-cert-verify":true,"udp":true}
+- {"name":"🇭🇰 HK_55","server":"api.tcpbbr.net","type":"trojan","country":"🇭🇰 HK","port":443,"password":"5c7b33c6-6d83-11eb-b77b-f23c913c8d2b","skip-cert-verify":true,"udp":true}
+- {"name":"🇹🇼 TW_68","server":"tw.tcpbbr.net","type":"trojan","country":"🇹🇼 TW","port":443,"password":"5c7b33c6-6d83-11eb-b77b-f23c913c8d2b","skip-cert-verify":true,"udp":true}
+- {"name":"🇹🇼 TW_69","server":"2.58.242.43","type":"trojan","country":"🇹🇼 TW","port":443,"password":"YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_70 | 0.38Mb","server":"172.99.190.92","type":"ss","country":"🇺🇸 US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_71 | 0.19Mb","server":"172.99.190.92","type":"ss","country":"🇺🇸 US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_72 | 1.22Mb","server":"uk-am3-5.eqsunshine.com","type":"ssr","country":"🇺🇸 US","port":8181,"password":"PNRbp3j9B","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇺🇸 US_73 | 2.91Mb","server":"usa-dallas.lvuft.com","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_74 | 4.30Mb","server":"45.35.84.162","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_75 | 6.55Mb","server":"ua1.uuv2.co.uk","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇺🇸 US_76 | 5.29Mb","server":"tw.softbank.mjj-home.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_77","server":"us-trojan.bonds.id","type":"trojan","country":"🇺🇸 US","port":443,"password":"38239dd0-902b-11eb-afc1-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_78","server":"us01.straycloud.icu","type":"trojan","country":"🇺🇸 US","port":442,"password":"0ac65136-5962-49d6-91f0-138957f6dec9","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_79 |19.32Mb","server":"api.mjj-home.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_80 |12.34Mb","server":"usa-freedomvpn.tk","type":"trojan","country":"🇺🇸 US","port":443,"password":"968522f4-455a-4b8a-8f8d-d538ec56396c","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_81 | 1.51Mb","server":"a2.centaur.network","type":"trojan","country":"🇺🇸 US","port":8081,"password":"cdcf03f6-5326-4496-a1d1-03bb098ad56f","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_82 | 3.86Mb","server":"xioix.gq","type":"trojan","country":"🇺🇸 US","port":443,"password":"9b7195ba-f029-4d7d-a728-ece6e0fdc363","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_83 | 5.24Mb","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_84 |17.43Mb","server":"56789.gq","type":"trojan","country":"🇺🇸 US","port":443,"password":"dc1453e4-e5c4-4b30-bee3-6ed2adce9ee3","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_85","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_86 | 3.45Mb","server":"184.168.127.50","type":"trojan","country":"🇺🇸 US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_87 |20.71Mb","server":"share.softbank.mjj-home.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_88","server":"v.9051246.xyz","type":"trojan","country":"🇺🇸 US","port":443,"password":"18825786","skip-cert-verify":true,"udp":true}
+- {"name":"🇺🇸 US_89","server":"us-trojan.bonds.id","type":"trojan","country":"🇺🇸 US","port":443,"password":"ccf1ee40-b4ab-11eb-b421-1239d0255272","skip-cert-verify":true,"udp":true}
